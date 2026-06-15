@@ -1,0 +1,14 @@
+{
+  "name": "expense-manager-system",
+  "version": "1.0.0",
+  "description": "Track expenses for students and working professionals",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2",
+    "sqlite3": "^6.0.1"
+  }
+}
